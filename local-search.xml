@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2024/11/07/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B/"/>
+    <url>/2024/11/07/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<h1 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h1><h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><p><a href="https://blog.csdn.net/yaorongke/article/details/119089190?spm=1001.2014.3001.5506">GitHub Pages + Hexo搭建个人博客网站，史上最全教程</a><br><a href="https://blog.csdn.net/qq_42951560/article/details/123678786">解决运行Hexo报错hexo : 无法加载文件hexo.ps1，因为在此系统上禁止运行脚本</a><br><a href="https://blog.csdn.net/m0_50299150/article/details/121467368">配置hexo的一点小问题：Usage: hexo ＜command＞</a><br><a href="https://www.jianshu.com/p/fac8bc29fa7c">Hexo+GitHub搭建博客遇到的坑</a><br><a href="https://blog.csdn.net/hannah2233/article/details/119976392">hexo+github搭建博客时报spawn failed错误【多种解决方法】</a><br><a href="https://blog.csdn.net/qq_40196524/article/details/102789138">关于hexo指令错误之Usage: hexo <command> Commands: help Get help on a command.</a><br><a href="https://blog.csdn.net/m0_37826705/article/details/105795398">Hexo 命令失效解决</a><br><a href="https://blog.csdn.net/yaorongke/article/details/119084295">NodeJS安装及配置(Windows)</a><br><a href="https://blog.csdn.net/ShelleyLittlehero/article/details/83444703">npm安装hexo报错</a><br><a href="https://cloud.tencent.com/developer/article/1638128">npm install报错ERR! code ETIMEDOUT的解决办法</a><br><a href="https://blog.csdn.net/2401_83769134/article/details/141175214">md语法</a><br>别问我参考链接为什么那么多，因为我<del>是报错大王</del>学到的东西多</p><h2 id="搭建过程中遇到的一些典型问题"><a href="#搭建过程中遇到的一些典型问题" class="headerlink" title="搭建过程中遇到的一些典型问题"></a>搭建过程中遇到的一些典型问题</h2><p>（说白了就是我经常犯的）  </p><h3 id="1、关于hexo命令"><a href="#1、关于hexo命令" class="headerlink" title="1、关于hexo命令"></a>1、关于hexo命令</h3><p>我的hexo命令必须在该文件夹里才能使用我也不知道为啥，虽然我用的是全局的命令<br>npm install -g hexo-cli  </p><h3 id="2、关于换网页壁纸"><a href="#2、关于换网页壁纸" class="headerlink" title="2、关于换网页壁纸"></a>2、关于换网页壁纸</h3><p>其实没必要那么麻烦直接将image文件夹的图片替换成你想要的再把文件名改成对应的就好   </p><h3 id="3、关于浏览量的显示"><a href="#3、关于浏览量的显示" class="headerlink" title="3、关于浏览量的显示"></a>3、关于浏览量的显示</h3><p>不仅仅是像教程中那样还要在下面的server_url:<br>加上在LeanCloud中加上自己注册的REST API 服务器地址  </p><h3 id="4、关于发布新文章"><a href="#4、关于发布新文章" class="headerlink" title="4、关于发布新文章"></a>4、关于发布新文章</h3><p>只需要在post文件夹下新建文章即可，还需要把图片放到同名文件夹内</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Palpitate</title>
     <link href="/2024/11/06/Palpitate/"/>
     <url>/2024/11/06/Palpitate/</url>
